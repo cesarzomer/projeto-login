@@ -4,7 +4,7 @@
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
-    
+
     section#login {
         width: 75vw;
     }
@@ -31,14 +31,24 @@
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 40%;
         height: 100%;
     }
 
     selection#login > div#formulário {
-        float: right;
+        float: left;
         width: 60%;
     }
+
+    div#formulário > h1 {
+        font-size: 2em;
+    }
+
+    div#formulário > p {
+        font-size: 1.2em;
+    }
 }
+
+
     
