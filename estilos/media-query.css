@@ -15,7 +15,7 @@
         height: 100%;
     }
 
-    selection#login > div#formulário {
+    section#login > div#formulário {
         float: right;
         width: 60%;
     }
@@ -36,7 +36,7 @@
         height: 100%;
     }
 
-    selection#login > div#formulário {
+    section#login > div#formulário {
         float: left;
         width: 60%;
     }
